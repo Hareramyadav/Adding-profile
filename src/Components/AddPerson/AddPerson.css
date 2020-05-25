@@ -1,0 +1,11 @@
+.AddPerson {
+    text-align: center;
+    margin: 30px;
+}
+
+.AddPerson button{
+    border: 1px solid #eeeeee;
+    cursor: pointer;
+    border-radius: 5px;
+    box-shadow: 0 2px 3px #cccccc;
+}
